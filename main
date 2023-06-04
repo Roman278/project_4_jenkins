@@ -1,0 +1,5 @@
+echo "Hello first step"
+sleep 10
+pwd
+whoami
+sleep 5
